@@ -1,0 +1,10 @@
+framework module Mersenne {
+  umbrella header "Mersenne.h"
+
+  export *
+  module * { export * }
+}
+
+module Mersenne.Swift {
+    header "Mersenne-Swift.h"
+}

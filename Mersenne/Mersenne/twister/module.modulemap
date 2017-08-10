@@ -1,0 +1,5 @@
+module twister [system] [extern_c] {
+    header "Twister.h"
+    export *
+}
+
